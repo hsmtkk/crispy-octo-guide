@@ -1,0 +1,12 @@
+{
+  "availability-zones:account=384447982274:region=ap-northeast-1": [
+    "ap-northeast-1a",
+    "ap-northeast-1b",
+    "ap-northeast-1c",
+    "ap-northeast-1d"
+  ],
+  "hosted-zone:account=384447982274:domainName=novbyte.site:region=ap-northeast-1": {
+    "Id": "/hostedzone/Z064349130LVPLXPWKA1N",
+    "Name": "novbyte.site."
+  }
+}
